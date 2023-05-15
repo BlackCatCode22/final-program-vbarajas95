@@ -1,0 +1,34 @@
+Final Program Output by Vanessa Barajas, Spring 2023
+
+
+
+Hyena Habitat:
+
+hy01; null; 4 years old; birth date Jun 23, 2019; tan color; female; 7 pounds; from Friguia Park, Tunisia; arrived May 15, 2023
+hy02; null; 12 years old; birth date Aug 22, 2011; brown color; male; 1 pounds; from Friguia Park, Tunisia; arrived May 15, 2023
+hy03; null; 4 years old; birth date Jan 16, 2019; black color; male; 1 pounds; from Friguia Park, Tunisia; arrived May 15, 2023
+hy04; null; 8 years old; birth date Sep 06, 2015; black and tan striped color; female; 1 pounds; from Friguia Park, Tunisia; arrived May 15, 2023
+
+
+Lion Habitat:
+
+li01; null; 6 years old; birth date Sep 06, 2017; tan color; female; 3 pounds; from Zanzibar, Tanzania; arrived May 15, 2023
+li02; null; 12 years old; birth date Sep 02, 2011; dark tan color; female; 3 pounds; from KopeLion, Tanzania; arrived May 15, 2023
+li03; null; 22 years old; birth date Oct 17, 2001; golden color; male; 4 pounds; from Zanzibar, Tanzania; arrived May 15, 2023
+li04; null; 4 years old; birth date Jul 04, 2019; tan and brown color; female; 2 pounds; from KopeLion, Tanzania; arrived May 15, 2023
+
+
+Tiger Habitat:
+
+ti01; null; 2 years old; birth date Sep 26, 2021; gold and tan stripes color; male; 2 pounds; from Dhaka, Bangladesh; arrived May 15, 2023
+ti02; null; 4 years old; birth date Dec 06, 2019; black stripes color; female; 4 pounds; from Dhaka, Bangladesh; arrived May 15, 2023
+ti03; null; 18 years old; birth date May 06, 2005; gold and tan color; male; 3 pounds; from Bardia, Nepal; arrived May 15, 2023
+ti04; null; 3 years old; birth date Aug 26, 2020; black stripes color; female; 2 pounds; from Bardia, Nepal; arrived May 15, 2023
+
+
+Bear Habitat:
+
+be01; null; 7 years old; birth date Aug 09, 2016; brown color; male; 3 pounds; from Alaska Zoo, Alaska; arrived May 15, 2023
+be02; null; 25 years old; birth date Oct 12, 1998; black color; female; 4 pounds; from Woodland park Zoo, Washington ; arrived May 15, 2023
+be03; null; 4 years old; birth date Sep 21, 2019; black color; female; 3 pounds; from Woodland park Zoo, Washington ; arrived May 15, 2023
+be04; null; 4 years old; birth date May 14, 2019; brown color; male; 4 pounds; from Alaska Zoo, Alaska; arrived May 15, 2023
