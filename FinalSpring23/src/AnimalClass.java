@@ -5,7 +5,6 @@ import java.util.Random;
 public class AnimalClass {
     private String uniqueID;
     private String species;
-    private String name;
     private int age;
     private String birthDate;
     private String gender;
@@ -34,9 +33,6 @@ public class AnimalClass {
     }
     public String getSpecies() {
         return species;
-    }
-    public String getName() {
-        return name;
     }
     public int getAge() {
         return age;
@@ -70,9 +66,6 @@ public class AnimalClass {
     }
     public void setSpecies(String species) {
         this.species = species;
-    }
-    public void setName(String name) {
-        this.name = name;
     }
     public void setAge(int age) {
         this.age = age;

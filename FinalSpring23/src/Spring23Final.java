@@ -58,25 +58,25 @@ public class Spring23Final {
 
                 switch (species) {
                     case "hyena":
-                        temp.setName(temp.generateName(hyenaNames));
+                        temp.setAnimalName(temp.generateName(hyenaNames));
                         hyenaHabitat.add(temp);
                         temp.setUniqueID(temp.generateID(temp.getSpecies(), hyenaCounter));
                         hyenaCounter++;
                         break;
                     case "lion":
-                        temp.setName(temp.generateName(lionNames));
+                        temp.setAnimalName(temp.generateName(lionNames));
                         lionHabitat.add(temp);
                         temp.setUniqueID(temp.generateID(temp.getSpecies(), lionCounter));
                         lionCounter++;
                         break;
                     case "tiger":
-                        temp.setName(temp.generateName(tigerNames));
+                        temp.setAnimalName(temp.generateName(tigerNames));
                         tigerHabitat.add(temp);
                         temp.setUniqueID(temp.generateID(temp.getSpecies(), tigerCounter));
                         tigerCounter++;
                         break;
                     case "bear":
-                        temp.setName(temp.generateName(bearNames));
+                        temp.setAnimalName(temp.generateName(bearNames));
                         bearHabitat.add(temp);
                         temp.setUniqueID(temp.generateID(temp.getSpecies(), bearCounter));
                         bearCounter++;
